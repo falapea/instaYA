@@ -82,10 +82,11 @@
 
 .main-footer {
   color: white;  
-  padding-top: 3em;
-  position: relative;
+  padding-top: 4cm;
+  position: absolute;
   bottom: 0;
-  width: 100%;
-  
+  width: 100%; 
+  background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
 
 }
+
