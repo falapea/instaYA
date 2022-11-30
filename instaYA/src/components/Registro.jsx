@@ -18,11 +18,10 @@ export const Registro = () => {
           <h2 className="text-uppercase text-center mb-5">Crear nueva cuenta</h2>
           <MDBInput wrapperClass='mb-4' label='Nombre' size='lg' id='form1' type='text' />
           <MDBInput wrapperClass='mb-4' label='Correo electrónico' size='lg' id='form2' type='email' />
-          <MDBInput wrapperClass='mb-4' label='Contraseña' size='lg' id='form3' type='password' />
-          
+          <MDBInput wrapperClass='mb-4' label='Contraseña' size='lg' id='form3' type='password' />            
           <div className='d-flex flex-row justify-content-center mb-4'>
           </div>
-          <MDBBtn className='mb-4 w-100 gradient-custom-4' size='lg'>Enviar</MDBBtn>
+          <MDBBtn className='mb-4 w-100 gradient-custom-4' size='lg'>Crear cuenta</MDBBtn>
         </MDBCardBody>
       </MDBCard>
     </MDBContainer>
