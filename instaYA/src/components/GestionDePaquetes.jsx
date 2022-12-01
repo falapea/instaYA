@@ -3,7 +3,7 @@ import Table from 'react-bootstrap/Table';
 
 function Gestion() {
     return (
-        <MDBContainer fluid className='Gestion d-flex align-items-center justify-content-center'>
+        
             <Table striped="columns">
                 <thead>
                     <tr>
@@ -33,7 +33,7 @@ function Gestion() {
                     </tr>
                 </tbody>
             </Table>
-        </MDBContainer>
+        
     );
 }
 
