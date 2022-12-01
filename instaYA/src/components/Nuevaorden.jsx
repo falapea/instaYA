@@ -20,7 +20,7 @@ export const Nuevaorden = () => {
           <MDBInput wrapperClass='mb-4' label='Dirección de salida' size='lg' id='form1' type='text' />
           <MDBInput wrapperClass='mb-4' label='Nombre del destinario' size='lg' id='form2' type='text' />
           <MDBInput wrapperClass='mb-4' label='Dirección de recepción' size='lg' id='form3' type='password' /> 
-          <Date></Date>
+          
           <div className='d-flex flex-row justify-content-center mb-4'>
           </div>
           <MDBBtn className='mb-4 w-100 gradient-custom-4' size='lg'>Solicitar</MDBBtn>
